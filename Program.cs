@@ -5,8 +5,8 @@ using System.Text.Json;
 
 Console.WriteLine("Download the bulk data json file from https://scryfall.com/docs/api/bulk-data");
 Console.WriteLine("Place file in the same directory as this executable file.");
-Console.WriteLine("Press a key to continue");
-var re = Console.Read();
+Console.WriteLine("Press the enter key to continue");
+var re = Console.ReadLine();
 
 
 var files = Directory.GetFiles(Directory.GetCurrentDirectory(), "*.json");
@@ -38,5 +38,6 @@ foreach (var file in files)
     }
 
     Console.WriteLine("Finished processing: File \"output.csv\" was created in the same directory as this executable.");
+    Console.WriteLine("Press the enter key to exit");
     Console.ReadLine();
 }

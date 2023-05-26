@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\VisualStudio\\MTGParser\\MTGParser.csproj",
+      "projectUniqueName": "D:\\Websites\\MTGParser\\MTGParser.csproj",
       "projectName": "MTGParser",
-      "projectPath": "C:\\Workspace\\VisualStudio\\MTGParser\\MTGParser.csproj",
+      "projectPath": "D:\\Websites\\MTGParser\\MTGParser.csproj",
       "packagesPath": "C:\\Users\\PaulS\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\VisualStudio\\MTGParser\\obj\\",
+      "outputPath": "D:\\Websites\\MTGParser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PaulS\\AppData\\Roaming\\NuGet\\NuGet.Config",
