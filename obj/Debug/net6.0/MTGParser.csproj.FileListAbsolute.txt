@@ -1,0 +1,15 @@
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\MTGParser.exe
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\MTGParser.deps.json
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\MTGParser.runtimeconfig.json
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\MTGParser.dll
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\ref\MTGParser.dll
+C:\Workspace\VisualStudio\MTGParser\bin\Debug\net6.0\MTGParser.pdb
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.csproj.AssemblyReference.cache
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.AssemblyInfoInputs.cache
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.AssemblyInfo.cs
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.csproj.CoreCompileInputs.cache
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.dll
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\ref\MTGParser.dll
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.pdb
+C:\Workspace\VisualStudio\MTGParser\obj\Debug\net6.0\MTGParser.genruntimeconfig.cache
