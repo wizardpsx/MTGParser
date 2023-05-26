@@ -26,7 +26,18 @@ namespace MTGParser.Models
         {
             prices = new Price();
             related_uris = new RelatedURIS();
+            legalities = new Legalities();
         }
+
+        public Legalities legalities { get; set; }
+        public string? setname { get; set; }
+        public string? power { get; set; }
+        public string? toughness { get; set; }
+        public string? rarity { get; set; }
+        public string? mana_cost { get; set; }
+        public string[] colors { get; set; }
+        public string[] color_identity { get; set; }
+        public string[] keywords { get; set; }
     }
 
     public class Price
@@ -41,5 +52,31 @@ namespace MTGParser.Models
     public class RelatedURIS
     {
         public string gatherer { get; set; }
+    }
+
+    public class Legalities
+    {
+        public string? standard { get; set; }
+        public string? future { get; set; }
+        public string? historic { get; set; }
+        public string? gladiator { get; set; }
+        public string? pioneer { get; set; }
+        public string? explorer { get; set; }
+        public string? modern { get; set; }
+        public string? legacy { get; set; }
+        public string? pauper { get; set; }
+        public string? vintage { get; set; }
+        public string? penny { get; set; }
+        public string? commander { get; set; }
+        public string? oathbreaker { get; set; }
+        public string? brawl { get; set; }
+        public string? historicbrawl { get; set; }
+        public string? alchemy { get; set; }
+        public string? paupercommander { get; set; }
+        public string? duel { get; set; }
+        public string? oldschool { get; set; }
+        public string? premodern { get; set; }
+        public string? predh { get; set; }
+
     }
 }
