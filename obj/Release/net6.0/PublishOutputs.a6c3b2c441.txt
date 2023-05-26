@@ -1,0 +1,5 @@
+D:\Websites\MTGParser\bin\publish\MTGParser.exe
+D:\Websites\MTGParser\bin\publish\MTGParser.dll
+D:\Websites\MTGParser\bin\publish\MTGParser.deps.json
+D:\Websites\MTGParser\bin\publish\MTGParser.runtimeconfig.json
+D:\Websites\MTGParser\bin\publish\MTGParser.pdb

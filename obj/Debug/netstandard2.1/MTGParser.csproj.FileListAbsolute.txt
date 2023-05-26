@@ -1,0 +1,5 @@
+D:\Websites\MTGParser\obj\Debug\netstandard2.1\MTGParser.csproj.AssemblyReference.cache
+D:\Websites\MTGParser\obj\Debug\netstandard2.1\MTGParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Websites\MTGParser\obj\Debug\netstandard2.1\MTGParser.AssemblyInfoInputs.cache
+D:\Websites\MTGParser\obj\Debug\netstandard2.1\MTGParser.AssemblyInfo.cs
+D:\Websites\MTGParser\obj\Debug\netstandard2.1\MTGParser.csproj.CoreCompileInputs.cache
